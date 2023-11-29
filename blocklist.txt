@@ -446,3 +446,5 @@
 0.0.0.0 cdn.prod.www.spiegel.de/images/c510128b2-19842-7187-19c5-2002d257b653_w910h_600_fpx29.95_fpy44.94.jpg
 0.0.0.0 cdn.prod.www.spiegel.de/images/813251568-16d64-d937-21b1-5da624741dc7_w910h_600_fpx29.95_fpy44.94.jpg
 0.0.0.0 cdn.prod.www.spiegel.de/images/2d871cdf6-6d1b4-93f7-f1e1-9750d443844f_w910h_600_fpx29.95_fpy44.94.jpg
+0.0.0.0 cdn.prod.www.spiegel.de/images/2d871cdf6-6d1b4-93f7-f1e1-9750d4b0e1ec_w910h_600_fpx29.95_fpy44.94.jpg
+0.0.0.0 cdn.prod.www.spiegel.de/images/14937e936-62252-7c15-c995-7d7f557c4ff1_w910h_600_fpx29.95_fpy44.94.jpg
