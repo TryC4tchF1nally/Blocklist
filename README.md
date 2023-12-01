@@ -1,1 +1,1 @@
-Here are my Pi Hole Blocklist.
+Here are my Pi Hole Blocklists.
