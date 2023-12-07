@@ -21,6 +21,11 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 applvn.com
 0.0.0.0 appspot-preview.l.google.com
+0.0.0.0 api.permutive.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 clarity.ms
+0.0.0.0 script.ioam.de
+0.0.0.0 www.clarity.ms
 0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 config.ioam.de
 0.0.0.0 connect.tapjoy.com
