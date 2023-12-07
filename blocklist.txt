@@ -112,6 +112,7 @@
 0.0.0.0 assoc-amazon.de
 0.0.0.0 atdmt.com
 0.0.0.0 aticdn.net
+0.0.0.0 atonato.de
 0.0.0.0 atrack.pow7.com
 0.0.0.0 atsfi.de
 0.0.0.0 atwola.com
@@ -537,6 +538,7 @@
 0.0.0.0 rt.tace.ru
 0.0.0.0 rtrp13n.de
 0.0.0.0 rubiconproject.com
+0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rundsp.com
 0.0.0.0 rutorrent.frontline-mod.com
 0.0.0.0 s-microsoft.com
