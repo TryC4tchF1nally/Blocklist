@@ -817,6 +817,7 @@
 0.0.0.0 worldboxingvideoarchive.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt-safetag.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.loushao.net
 0.0.0.0 www.midea123.z-media.com.cn
 0.0.0.0 www.torrent.eu.org
