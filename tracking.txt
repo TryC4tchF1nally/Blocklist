@@ -1,4 +1,3 @@
-0.0.0.0 
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 a-graph.facebook.com
 0.0.0.0 a.applvn.com
