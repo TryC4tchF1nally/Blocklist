@@ -1,6 +1,10 @@
 0.0.0.0 cdn.prod.www.spiegel.de/images/4f0776516-7d3e2-1657-e871-934ea744291e_w910h_600_fpx29.95_fpy44.94.jpg
+0.0.0.0 cdn.prod.www.spiegel.de/images/4f0776516-7d3e2-1657-e871-934ea788bce9_w910h_600_fpx29.95_fpy44.94.jpg
 0.0.0.0 cdn.prod.www.spiegel.de/images/746f99df2-e5bd4-db87-9025-af000314cdc8_w910h_600_fpx29.95_fpy44.94.jpg
 0.0.0.0 cdn.prod.www.spiegel.de/images/82ec195e2-f64e4-6c35-6f21-b56b5044291e_w910h_600_fpx29.95_fpy44.94.jpg
+0.0.0.0 cdn.prod.www.spiegel.de/images/82ec195e2-f64e4-6c35-6f21-b56b5088bce9_w910h_600_fpx29.95_fpy44.94.jpg
 0.0.0.0 cdn.prod.www.spiegel.de/images/d7e87d986-95d13-f087-b321-e2a0eb14cdc8_w910h_600_fpx29.95_fpy44.94.jpg
+0.0.0.0 www.chefkoch.de/magazin/sites/default/files/styles/default/public/media/image/2023-12/giVmjite_qpfwro_offer-xeric-juli_598x331.jpg
 0.0.0.0 www.chefkoch.de/magazin/sites/default/files/styles/lead/public/media/image/2023-12/d4ddhCqP_dynhdr_basic-tag_203x104.jpg
+0.0.0.0 www.chefkoch.de/magazin/sites/default/files/styles/lead/public/media/image/2023-12/giVmjite_ujxuxu_clair-clair-japan_616x289.jpg
 0.0.0.0 www.chefkoch.de/magazin/sites/default/files/styles/sidebar_box/public/media/image/2023-12/d4ddhCqP_opbcci_celebrate-mache_598x331.jpg
