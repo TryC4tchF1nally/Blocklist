@@ -1,3 +1,4 @@
+0.0.0.0 mitself.net
 0.0.0.0 0-000.store
 0.0.0.0 0008d6ba2e.com
 0.0.0.0 0024ad98dd.com
