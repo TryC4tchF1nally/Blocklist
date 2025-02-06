@@ -10976,6 +10976,7 @@ abodealley.com
 abokai01.webtrekk.net
 abotmedia.offerstrack.net
 abourselfi.com
+about.ads.microsoft.com
 about.elicitapp.com
 about.netster.com
 aboutads.info
@@ -78425,6 +78426,7 @@ id11938.luxup.ru
 id3103.com
 id405441215-8305493831.h121h9.com
 id5-sync.com
+id5.io
 id5576.al21.luxup.ru
 idaschop.ru
 idash.appier.net
@@ -81279,6 +81281,7 @@ intecyield.jmp9.com
 integ.emp.exelator.com
 intego.7eer.net
 integral-marketing.com
+integralads.com
 integralwall.goforandroid.com
 integrate.112.2o7.net
 integrate.app.247-inc.net
@@ -86827,6 +86830,7 @@ legacylabs.go2cloud.org
 legacyminerals.net
 legal.epsilon.com
 legal.marketo.com
+legal.yahoo.com
 legalzoom.tt.omtrdc.net
 legandruk.com
 legava.net
@@ -103183,6 +103187,7 @@ pb.adriver.ru
 pb.carambo.la
 pb.clinkad.com
 pb.i.sogou.com
+pb.inforsea.com
 pb.lbesec.com
 pb.media01.eu
 pb.pubnative.net
@@ -103224,6 +103229,7 @@ pbnwiecwfpaltrier.review
 pbofytmakvye.com
 pbpdgojwzfdc.com
 pbrd.co
+pbs.yahoo.com
 pbs01.automatad.com
 pbsmzzxrmu.bid
 pbteen.evyy.net
@@ -121008,7 +121014,6 @@ st.ad.smaclick.com
 st.adnow.com
 st.adriver.ru
 st.adxxx.com
-st.adxxx.o0.0.0.0www.deployads.com
 st.adxxx.owww.deployads.com
 st.astraone.io
 st.at2010.net
@@ -134838,6 +134843,7 @@ vgsgaming-ads.com
 vgtnbvzkepbm.com
 vgudvdgzix.bid
 vgwdepvhkiu.bid
+vgwort.de
 vgyakiejafjjj.com
 vh1com.112.2o7.net
 vhatpbmitwcn.com
@@ -134880,6 +134886,7 @@ vhzzzbdtxhh.bid
 vi-serve-com-1402927709.us-east-2.elb.amazonaws.com
 vi-serve.com
 vi.adxxx.com
+vi.ai
 vi.bigmir.net
 vi.dev.fwmrm.net
 vi012.com
@@ -135066,6 +135073,7 @@ vidanalytics.taboola.com
 vidapi.expepp.de
 vidasys.ru
 vidaugust.ru
+vidazoo.gitbook.io
 vidcoin.com
 vidcpm.com
 viddirect.ru
@@ -139255,6 +139263,7 @@ vlvowhlxxibn.com
 vlwdjmvhf.com
 vlxgszdgmnay.com
 vlxszjkbwgt.com
+vlyby.com
 vlyqzdsucomih.com
 vlyuopulvewg.com
 vm.timeinabottle.pw
@@ -146181,6 +146190,7 @@ www.gui.secure.mobile.contentabc.com
 www.guid.org
 www.guidagedhgperv.download
 www.gulugulutest.com
+www.gumgum.com
 www.gunnedagcsg.download
 www.gunungemas.cc
 www.guoyhfjrpt.com
@@ -146417,6 +146427,7 @@ www.iaspromotes.com
 www.ib.adnxs.com
 www.iballs.nl
 www.ibario.com
+www.ibillboard.com
 www.ibis.cz
 www.iboard.com
 www.ibroadband.com
@@ -146498,6 +146509,7 @@ www.impactradius.com
 www.impluviawtqydlbbi.download
 www.impresionesweb.com
 www.impressionperformance.biz
+www.improvedigital.com
 www.imptestrm.com
 www.imtrck.com
 www.imysurvey.com
@@ -146512,6 +146524,7 @@ www.inclk.com
 www.income88.com
 www.increaserev.com
 www.indexerflash.com
+www.indexexchange.com
 www.indiaonclick.com
 www.indicative.com
 www.indoorspkacwv.download
@@ -149752,7 +149765,9 @@ www.veruta.com
 www.verypositiveus.com
 www.vfqwpoxshelfroom.review
 www.vgleqkbergamots.review
+www.vgwort.de
 www.vhnnicneovals.review
+www.vi.ai
 www.viatepigan.com
 www.vibrantmedia.com
 www.viciosityptktpdyq.download
@@ -149817,6 +149832,7 @@ www.vizury.com
 www.vjnehfcprozymite.review
 www.vjsoft.net
 www.vk2ca.com
+www.vlyby.com
 www.vmay.com
 www.vmcsatellite.com
 www.vml-127.com
@@ -150186,6 +150202,8 @@ www.yfxnajdodamasks.review
 www.yhmpiboweanel.review
 www.yidsense.com
 www.yieldersoogjabsb.download
+www.yieldlab.com
+www.yieldlove.com
 www.yieldmanager.net
 www.yieldmo.com
 www.yieldtraffic.com
@@ -152118,6 +152136,7 @@ yahoo-d.openx.net
 yahoo-news.co
 yahoo-s.nuggad.net
 yahoo.aws.rubiconproject.com
+yahoo.com
 yahoo.effectivemeasure.net
 yahoo.ivwbox.de
 yahoo.media.net
@@ -152474,6 +152493,7 @@ yieldify-static-files.s3.amazonaws.com
 yieldify.com
 yieldkit.com
 yieldlab.adformdsp.net
+yieldlab.com
 yieldlab.net
 yieldlove-d.openx.net
 yieldlove.com
@@ -152679,6 +152699,7 @@ yobr.net
 yobxvotn.bid
 yoc-adserver.com
 yoc-performance.com
+yoc.com
 yoc.mobi
 yoc.optout.skimresources.com
 yoclub.waphall.com
